@@ -2,9 +2,6 @@
 
 **Independent Developer · Technical Creator**
 
-你好，我是 LaoQi，一名热爱软件开发与技术探索的开发者。
-我喜欢把想法变成真正可用的软件，也喜欢探索 AI 技术、桌面应用和独立游戏开发。
-
 Hello, I'm LaoQi, a developer passionate about software development and technological exploration.
 I enjoy turning ideas into practical, usable software, and exploring AI technologies, desktop applications, and indie game development.
 
@@ -21,10 +18,10 @@ I enjoy turning ideas into practical, usable software, and exploring AI technolo
 | Project | Description |
 |---|---|
 | [Qige](https://github.com/LaoQiTX/Qige) | Windows Desktop Organizer |
-| [AMeProxy](https://github.com/LaoQiTX/AMeProxy) | Windows Proxy Client |
 | [KeyStage](https://github.com/LaoQiTX/KeyStage) | Code Demonstration Extension |
 | [Aliya_Cosmos](https://github.com/LaoQiTX/Aliya_Cosmos) | Electron-based Fan Game Project |
 | [EnvKit](https://github.com/LaoQiTX/EnvKit) | Windows Environment Manager |
+| [AMeProxy](https://github.com/LaoQiTX/AMeProxy) | Windows Proxy Client |
 
 ## Tech Interests
 
