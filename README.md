@@ -39,7 +39,7 @@ I enjoy turning ideas into practical, usable software, and exploring AI technolo
 
 ## Support My Work
 
-If you enjoy my projects and creations,
-you can support my continued development here:
+I've officially joined **Afdian (爱发电)!** 🎉
+If you enjoy my projects and creations, you can support my continued development on Afdian:
 
 [⚡ Support me on Afdian](https://ifdian.net/a/QiTongXue)
