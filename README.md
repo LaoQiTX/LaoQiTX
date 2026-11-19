@@ -21,7 +21,7 @@ I enjoy turning ideas into practical, usable software, and exploring AI technolo
 | [KeyStage](https://github.com/LaoQiTX/KeyStage) | Code Demonstration Extension |
 | [Aliya_Cosmos](https://github.com/LaoQiTX/Aliya_Cosmos) | Electron-based Fan Game Project |
 | [EnvKit](https://github.com/LaoQiTX/EnvKit) | Windows Environment Manager |
-| [AMeProxy](https://github.com/LaoQiTX/AMeProxy) | Windows Proxy Client |
+
 
 ## Tech Interests
 
